@@ -1,1 +1,0 @@
-## NAME: Where are the Robots,                PLATFORM: Pico CTF
